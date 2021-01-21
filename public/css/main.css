@@ -1,0 +1,161 @@
+/*#videosList {
+    max-width: 1920px;
+    overflow: hidden;
+}
+
+.vc_custom_1564471561596 {
+    padding-top: 0px !important;
+}
+
+.vc_custom_1562121013750 {
+    padding-top: 140px !important;
+    padding-bottom: 140px !important;
+}
+
+.vc_custom_1562121013750 {
+    padding-top: 140px !important;
+    padding-bottom: 140px !important;
+}
+
+.video {
+    background-image: url('https://img.youtube.com/vi/nZcejtAwxz4/maxresdefault.jpg');
+    height: 600px;
+    width: 1920px;
+    margin-bottom: 0;
+}
+
+img.wp-smiley,
+img.emoji {
+    display: inline !important;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 .07em !important;
+    vertical-align: -0.1em !important;
+    background: none !important;
+    padding: 0 !important;
+}
+
+.product-detail-container .nav-v li a {
+    border: 2px solid #1f2933;
+}
+
+.product-detail-container .nav-v li.active a,
+.product-detail-container .nav-v li:focus a {
+    border: 2px solid #5d55fa;
+}
+
+.woocommerce a.button,
+.woocommerce input.button,
+.woocommerce button.button {
+    background-color: #5d55fa!important;
+}
+
+.woocommerce a.button:hover,
+.woocommerce input.button:hover,
+.woocommerce button.button:hover {
+    background: #3525e6!important;
+}
+
+.woocommerce .woocommerce-info {
+    border-top: 3px solid #5d55fa;
+}
+
+.woocommerce-MyAccount-navigation-link.is-active a {
+    color: #3525e6;
+}
+
+
+ Media Query Colors Customization 
+
+@media only screen and (min-width: 992px) {
+    .default-page #header.white-header.fixed-position .navbar-default .navbar-nav>li>a:hover,
+    #header.white-header.fixed-position .navbar-default .navbar-nav>li>a:hover {
+        color: #5d55fa;
+    }
+    .default-page #header.white-header.fixed-position .navbar-default .navbar-nav>li.hover>a,
+    #header.white-header.fixed-position .navbar-default .navbar-nav>li.hover>a {
+        color: #5d55fa;
+    }
+    .default-page #header.default-white-header .navbar-default .navbar-nav>li>a:hover,
+    #header.default-white-header .navbar-default .navbar-nav>li>a:hover {
+        color: #5d55fa;
+    }
+    .default-page #header.default-white-header .navbar-default .navbar-nav>li.hover>a,
+    #header.default-white-header .navbar-default .navbar-nav>li.hover>a {
+        color: #5d55fa;
+    }
+    .dropdown-menu .drop-holder .col:hover .title,
+    .dropdown-menu .drop-holder .col:hover .title a {
+        color: #616e7c;
+    }
+}
+
+@media only screen and (min-width: 1025px) {
+    #header.fixed-position .navbar-default .navbar-nav>li>a:hover {
+        color: #5d55fa;
+    }
+    #header.fixed-position .navbar-default .navbar-nav>li>a:active {
+        color: #5d55fa;
+    }
+    #header.fixed-position .search-form .search-opener:hover {
+        color: #5d55fa;
+    }
+}
+
+.woocommerce a.button,
+.woocommerce input.button,
+.woocommerce button.button {
+    background-color: #5d55fa!important;
+}
+
+.woocommerce a.button:hover,
+.woocommerce input.button:hover,
+.woocommerce button.button:hover {
+    background: #3525e6!important;
+}
+
+.woocommerce .woocommerce-info {
+    border-top: 3px solid #5d55fa;
+}
+
+.woocommerce-MyAccount-navigation-link.is-active a {
+    color: #3525e6;
+}
+
+@media only screen and (min-width: 992px) {
+    .default-page #header.white-header.fixed-position .navbar-default .navbar-nav>li>a:hover,
+    #header.white-header.fixed-position .navbar-default .navbar-nav>li>a:hover {
+        color: #5d55fa;
+    }
+    .default-page #header.white-header.fixed-position .navbar-default .navbar-nav>li.hover>a,
+    #header.white-header.fixed-position .navbar-default .navbar-nav>li.hover>a {
+        color: #5d55fa;
+    }
+    .default-page #header.default-white-header .navbar-default .navbar-nav>li>a:hover,
+    #header.default-white-header .navbar-default .navbar-nav>li>a:hover {
+        color: #5d55fa;
+    }
+    .default-page #header.default-white-header .navbar-default .navbar-nav>li.hover>a,
+    #header.default-white-header .navbar-default .navbar-nav>li.hover>a {
+        color: #5d55fa;
+    }
+    .dropdown-menu .drop-holder .col:hover .title,
+    .dropdown-menu .drop-holder .col:hover .title a {
+        color: #616e7c;
+    }
+}
+
+@media only screen and (min-width: 1025px) {
+    #header.fixed-position .navbar-default .navbar-nav>li>a:hover {
+        color: #5d55fa;
+    }
+    #header.fixed-position .navbar-default .navbar-nav>li>a:active {
+        color: #5d55fa;
+    }
+    #header.fixed-position .search-form .search-opener:hover {
+        color: #5d55fa;
+    }
+}  
+*/
